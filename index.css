@@ -136,22 +136,22 @@ animation-delay: 1s;
         display: none;
     }
 
-    .img { height: 50px;
-        width: 50px;
+    .img { height: 35px;
+        width: 35px;
              }
-    .img:hover{ height: 60px;
-        width: 50px;
+    .img:hover{ height: 40px;
+        width: 40px;
         transition: 0.4s;
              }   
     .sidebarimg{
        position: fixed;
-       height: 80px;
-       width: 60px;
+       height: 60px;
+       width: 40px;
     }  
     .side2img{
     position: fixed;
-    height: 80px;
-    width: 60px;
+    height: 60px;
+    width: 40px;
     } 
     .box3{
         font-weight: 600;
@@ -175,16 +175,16 @@ animation-delay: 1s;
            font-size: 16px;
        }
     #bx1{
-        font-size: 36px !important;
+        font-size: 30px !important;
     }  
     #bx2{
-        font-size: 36px !important;
+        font-size: 30px !important;
     }   
     #bx3{
-        font-size: 36px !important;
+        font-size: 30px !important;
     }   
     #bx4{
-        font-size: 36px !important;
+        font-size: 30px !important;
     }    
 
 }
